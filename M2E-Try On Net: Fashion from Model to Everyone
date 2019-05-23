@@ -1,0 +1,4 @@
+Introduction
+这篇论文的研究方向也是虚拟试衣系统，但与先前的一些研究成果不一样：M2E-Try On Net 不需要用户提供服饰的正面照，只需要用户提供穿着特定服饰的模特的照片，即可生成出对应的试衣图像。M2E-TON 由三个网络构成：the pose alignment network (PAN)、the texture refinement network (TRN)、the fitting network (FTN)。 
+
+首先，M2E-TON的总体流程如下： 
